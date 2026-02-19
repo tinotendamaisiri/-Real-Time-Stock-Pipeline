@@ -10,14 +10,8 @@ cloud services.
 
 ## 🏗 Architecture Diagram
 
-```{=html}
-<!-- 
-PASTE YOUR ARCHITECTURE DIAGRAM BELOW
+<img width="1538" height="750" alt="916e93c24e40e064acfbaa274b128a3f" src="https://github.com/user-attachments/assets/d0efa3e1-fcb2-46df-9a9e-a0e611287e92" />
 
-Example:
-![Architecture Diagram](docs/architecture.png)
--->
-```
 
 ------------------------------------------------------------------------
 
